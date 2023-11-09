@@ -1,6 +1,5 @@
 # Md. Mojnu Miah
 
-![Profile Picture](https://your-profile-picture-url-here)
 
 🏡 Dhaka, Bangladesh
 📧 Email: mojnu.cse.pust@gmail.com
@@ -27,7 +26,10 @@ This section is empty and won't appear in your resume.
 
 ## Education
 
-This section is empty and won't appear in your resume.
+- **Pabna University of Science and Technology**
+  - *B.Sc. Engineering, Computer Science and Engineering*
+  - *Jan 2018 - Dec 2023*
+
 
 ---
 
@@ -39,18 +41,4 @@ This section is empty and won't appear in your resume.
   - Issued: Jun 2021
   - Credential ID: 4340b786-5640-48d7-8306-f8ff6fcb86c8
 
----
-
-## Skills
-
-- Data Structures
-- Algorithms
-- Problem Solving
-- Software Development
-- JavaScript
-- React.js
-- Node.js
-- Web Development
-- HTML
-- CSS
 
