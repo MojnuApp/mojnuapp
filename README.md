@@ -36,7 +36,7 @@ This section is empty and won't appear in your resume.
 
 ## Licenses & Certifications
 
-![Programming Hero](https://your-certification-logo-url-here)
+[Programming Hero](https://your-certification-logo-url-here)
 
 - **Complete Web Development Course with Jhankar Mahbub - Programming Hero**
   - Issued: Jun 2021
