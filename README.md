@@ -19,12 +19,6 @@ Mojnu is an experienced Full Stack Web Developer skilled in the MERN stack. He c
 
 ---
 
-## Experience
-
-This section is empty and won't appear in your resume.
-
----
-
 ## Education
 
 - **Pabna University of Science and Technology**
