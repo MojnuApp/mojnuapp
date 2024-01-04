@@ -13,7 +13,7 @@
 
 Mojnu is an experienced Full Stack Web Developer skilled in the MERN stack. He can create attractive websites and web apps using technologies like:
 
-- Frontend: JavaScript, React, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI (MUI).
+- Frontend: JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI (MUI).
 - Backend: Node.js, Express.js.
 - Database: MongoDB
 
