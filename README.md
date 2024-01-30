@@ -3,7 +3,7 @@
 
 
 🏡 Dhaka, Bangladesh
-📧 Email: mojnu.cse.pust@gmail.com
+📧 Email: codebymojnu@gmail.com
 📱 Phone: 01788262433
 🔗 [LinkedIn](https://www.linkedin.com/in/mojnuapp)
 
