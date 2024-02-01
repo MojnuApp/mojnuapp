@@ -3,7 +3,7 @@
 
 
 🏡 Dhaka, Bangladesh
-📧 Email: codebymojnu@gmail.com
+📧 Email: mojnu.miah.cse@gmail.com
 📱 Phone: 01788262433
 🔗 [LinkedIn](https://www.linkedin.com/in/mojnuapp)
 
