@@ -27,11 +27,11 @@ I am an experienced Frontend Web Developer specializing in the MERN stack. I hav
 
 ## Projects
 
-### [Project 1: Awesome Project](https://github.com/codebymojnu/awesome-project)
-A brief description of your project goes here. Highlight the main features and technologies used.
+### [Project 1: Non Profit Organization Website(https://github.com/codebymojnu/spaf)
+This project is a website for a non-profit organization. It includes information about their programs, news updates, donation and volunteer forms, and an admin dashboard. We used HTML, Tailwind CSS, JavaScript, React, Node.js, and MongoDB to build it. The website has a modern design, is mobile-friendly, and easy to navigate. It helps the organization increase visibility, communicate better, and manage resources more effectively to achieve their goals.
 
-### [Project 2: Another Cool Project](https://github.com/codebymojnu/another-cool-project)
-A brief description of your project goes here. Highlight the main features and technologies used.
+### [Project 2: Note Application](https://github.com/codebymojnu/dairy-frontend)
+Add Daily Note and Manage it. Note's Shows in a HomePage with a beutiful Pagination Feature.
 
 ## Stats
 
